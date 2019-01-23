@@ -10,11 +10,11 @@ public class StringConstantUtil {
  public static String APPSVR_CLASS = "com.asu.cloudcomputing.imagerecognition.AppTier";
  public static String MAX_LONG_POLL = "10";
  
- public static String ACCESS_KEY = "uDOZYYE/Q04c5sgqnMj5Rvtb+snBGmdM79CyM6DD";
- public static String ACCESS_KEY_ID = "AKIAJ3ACVJSX34RZYUAQ";
- public static String PUBLIC_KEY_NAME = "adityagawskey";
- public static String BUCKET_NAME = "adityag-bucket";
- public static String AMI = "ami-aa4554ca";
+ public static String ACCESS_KEY = "";
+ public static String ACCESS_KEY_ID = "";
+ public static String PUBLIC_KEY_NAME = "";
+ public static String BUCKET_NAME = "";
+ public static String AMI = "";
 
  public static Integer HTTP_PORT = 8888;
  public static Integer RES_THREAD_COUNT = 4;
